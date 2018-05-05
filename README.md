@@ -1,3 +1,5 @@
+
+# Docker configuration for react based applications
 # Steps to follow
 
 1. `docker build -t helloworld .`
